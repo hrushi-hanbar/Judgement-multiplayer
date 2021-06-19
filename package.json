@@ -2,20 +2,19 @@
   "name": "judgement",
   "version": "1.0.0",
   "description": "an online  multiplayer versin of Judgement card game",
-  "author": "Hrushikesh Hanbar",
+  "author": "",
   "main": "server.js",
   "engines": {
-  "node": "8.10.0"
-},
+    "node": "8.10.0"
+  },
   "dependencies": {
     "express": "^4.16.3",
-    "npm": "^5.7.1",
+    "npm": "^7.18.1",
     "socket.io": "^2.1.1"
   },
   "devDependencies": {},
   "scripts": {
     "start": "node server.js"
   },
-  "author": "",
   "license": "ISC"
 }
