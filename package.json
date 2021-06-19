@@ -1,7 +1,8 @@
 {
   "name": "judgement",
   "version": "1.0.0",
-  "description": "",
+  "description": "an online  multiplayer versin of Judgement card game",
+  "author": "Hrushikesh Hanbar",
   "main": "server.js",
   "engines": {
   "node": "8.10.0"
